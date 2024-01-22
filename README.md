@@ -34,4 +34,4 @@ Step 5 - It will install the libraries and create the project folders
 
 
 Test Explorer in VS Code 
-Ctrl + Shift + P --> 
+Ctrl + Shift + P --> Test Focus on Playwright View (Will be available on the letf hand side so all the test in test folder can be run and seen)
